@@ -1,2 +1,2 @@
-# python_intro
+# Python Intro
 Review of python for physics
